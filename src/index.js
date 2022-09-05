@@ -1,3 +1,4 @@
+//改为class解决了缓存问题
 class DeepCloner {
   cache = [];
   clone(source) {
